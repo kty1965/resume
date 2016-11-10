@@ -14,12 +14,12 @@ Education
 :   **BSc, Computer Science**; University of
     Ajou (Suwon)
 
-    *Minor: Software Engineering*
+    Minor: Software Engineering
 
 Experience
 ----------
 
-**[ZOYI Corperation](https//zoyi.co) (2012 ~ current)**
+**[ZOYI Corperation](https://zoyi.co) (2012 ~ current)**
 
 * AdbyMe - Social Media Marketing platform
 * Cooki - Social Curation platform
@@ -49,11 +49,12 @@ Technical Experience
 * AngularJs
 
 Programming Languages
-:   **first-lang:** ruby
-:   **second-lang:** java
-:   **third-lang:** javascript
-:   **forth-lang:** scala
-:   **fifth-lang:** python
+--------------------
+* ruby
+* java
+* javascript
+* scala
+* python
 
 :   Basic knowledge of **C**, **Data sturcture**, **Algorithm**, **WebService - frontend**, **WebService - backend**
 
