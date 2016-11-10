@@ -1,11 +1,9 @@
 TaeYoung Kim (huy)
 ============
-
--------------------     ----------------------------
-Address                            kty1965@gmail.com
-Seoul                          
-Korea                         +82(0)10-4479-1965
--------------------     ----------------------------
+Email: kty1965@gmail.com
+Address: Seoul
+Country: Korea
+MobilePhone : +82(0)10-4479-1965
 
 Education
 ---------
