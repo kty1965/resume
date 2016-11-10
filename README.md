@@ -48,15 +48,9 @@ Technical Experience
 * Influxdb
 * AngularJs
 
-Programming Languages
---------------------
-* ruby
-* java
-* javascript
-* scala
-* python
+: Programming Languages : **Ruby**, **Java**, **Javascript**, **Scala**, **Python**
 
-:   Basic knowledge of **C**, **Data sturcture**, **Algorithm**, **WebService - frontend**, **WebService - backend**
+: Basic knowledge of **C**, **Data sturcture**, **Algorithm**, **WebService - frontend**, **WebService - backend**, **BigData Handling**, **Distributed system**
 
 Extra Skills
 ----------------------------------------
