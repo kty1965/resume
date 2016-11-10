@@ -10,7 +10,7 @@ MobilePhone  | +82(0)10-4479-1965|
 Education
 ---------
 
-2007-2010
+2010-2016
 :   **BSc, Computer Science**; University of
     Ajou (Suwon)
 
