@@ -1,7 +1,7 @@
 [![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/kty1965/my-stack)
 -----
-TaeYoung Kim (huy)
 
+TaeYoung Kim (huy)
 ============
  | Content |
 --- | --- |
