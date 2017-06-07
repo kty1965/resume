@@ -27,7 +27,7 @@ Experience
 * Cooki - Social Curation platform
 * AdbyMePlay - Social Media Marketing by viedo platform
 * CarryU - League Of Legends user score search
-* [Walkinisghts](https:/walkinsights.com) - Offline analytics by WIFI-Signal
+* [Walkinisghts](https://walkinsights.com) - Offline analytics by WIFI-Signal
 * WalkIn - Captive portal solution by [Wifidog](http://dev.wifidog.org/)
 
 Technical Experience
