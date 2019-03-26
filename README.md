@@ -10,7 +10,6 @@ Country      | Korea             |
 MobilePhone  | +82(0)10-4479-1965|
 
 ## Education
----------
 
 2010-2016
 :   **BSc, Computer Science**; University ofAjou (Suwon)
@@ -18,7 +17,6 @@ MobilePhone  | +82(0)10-4479-1965|
     Major: Software Engineering
 
 ## Experience
-----------
 
 **[ZOYI AdbyMe](https://zoyi.co) (2012 ~ 2015)**
 - AdbyMe
@@ -66,7 +64,6 @@ MobilePhone  | +82(0)10-4479-1965|
 
 
 ## Technical Experience
---------------------
 
 - [RubyOnRails](http://rubyonrails.org/)
 - [Kubernetes](https://kubernetes.io/ko/)
@@ -97,7 +94,6 @@ MobilePhone  | +82(0)10-4479-1965|
 : Basic knowledge of **C**, **Data sturcture**, **Algorithm**, **WebService - frontend**, **WebService - backend**, **BigData Handling**, **Distributed system**
 
 ## Extra Skills
-----------------------------------------
 
 * Human Languages:
      * English
