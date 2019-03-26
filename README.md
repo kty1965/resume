@@ -19,6 +19,7 @@ MobilePhone  | +82(0)10-4479-1965|
 ## Experience
 
 **[ZOYI AdbyMe](https://zoyi.co) (2012 ~ 2015)**
+
 - AdbyMe
   - Social Media Marketing platform
   - 소셜 미디어 마케팅 플랫폼
