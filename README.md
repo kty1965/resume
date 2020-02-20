@@ -7,7 +7,6 @@
 Email        | kty1965@gmail.com |
 Address      | Seoul             |
 Country      | Korea             |
-MobilePhone  | +82(0)10-4479-1965|
 
 ## Education
 
@@ -54,9 +53,19 @@ MobilePhone  | +82(0)10-4479-1965|
 - [Walkinisghts](https://walkinsights.com)
   - Offline analytics by WIFI-Signal
   - 오프라인 와이파이 신호 분석 서비스
+  - DevOps
   - Backend
     - on-premise & aws hybrid 인프라 관리
-    - Ruby on Rails, Dropwizard 등 프레임 워크 사용
+    - Ruby on Rails (ruby)
+    - Dropwizard (java8)
+    - Play (scala 2.11)
+    - spark (2.3)
+    - hadoop ecosystem (2.6.0)
+    - kubernetes on AWS (with kops)
+    - kubernetes on On-Premise (with kubeadm)
+    - Websocket
+    - Graphql
+    - Typescript with Nodejs
   - Frontend
     - React, Angular, Webpack 등 프레임 워크 사용
 - WalkIn
