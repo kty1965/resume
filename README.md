@@ -47,27 +47,48 @@ Country      | Korea             |
   - League Of Legends user score search
   - 게임 리그 오브 레전드 유저 전적 검색 서비스
   - Backend
+    - Ruby On Rails framework 사용
   - Frontend
 
-**[ZOYI Corperation CTO](https://zoyi.co) (2016 ~ current)**
+**[ZOYI Corperation Software Engineer](https://zoyi.co) (2016 ~ 2018)** </br>
+**[ZOYI Corperation CTO of Walkinsights](https://zoyi.co) (2018 ~ current)**
 - [Walkinisghts](https://walkinsights.com)
   - Offline analytics by WIFI-Signal
   - 오프라인 와이파이 신호 분석 서비스
   - DevOps
   - Backend
     - on-premise & aws hybrid 인프라 관리
-    - Ruby on Rails (ruby)
+    - Ruby on Rails (ruby) (Rails version 4.x)
     - Dropwizard (java8)
     - Play (scala 2.11)
     - spark (2.3)
     - hadoop ecosystem (2.6.0)
+      - hbase
+      - oozie
+      - hive
+      - yarn
+      - hue
+    - Storm
+    - Kafka
+    - RabbitMQ
     - kubernetes on AWS (with kops)
     - kubernetes on On-Premise (with kubeadm)
     - Websocket
     - Graphql
     - Typescript with Nodejs
+    - Serverless
+    - AWS
+      - IoT Core
+      - RDS, Aurora
+      - Athena
+      - S3
+      - Glue
+      - EMR
+      - EC2 Spot Fleet
+      - Route53
   - Frontend
     - React, Angular, Webpack 등 프레임 워크 사용
+    - ReactNative
 - WalkIn
   - Captive portal solution by [Wifidog](http://dev.wifidog.org/)
   - 와이파이 포탈 서비스
@@ -92,10 +113,9 @@ Country      | Korea             |
 - Nodejs
 - Docker
 - Capistrano
+- Kafka
 - AWS services
   - iot
-  - dynamodb
-  - redshift
   - emr
   - etc.
 
