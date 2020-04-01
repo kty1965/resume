@@ -50,8 +50,8 @@ Country      | Korea             |
     - Ruby On Rails framework 사용
   - Frontend
 
-**[ZOYI Corperation Software Engineer](https://zoyi.co) (2016 ~ 2018)** </br>
-**[ZOYI Corperation CTO of Walkinsights](https://zoyi.co) (2018 ~ current)**
+**[ZOYI Software Engineer](https://zoyi.co) (2016 ~ 2018)** </br>
+**[ZOYI CTO of Walkinsights](https://zoyi.co) (2018 ~ current)**
 - [Walkinisghts](https://walkinsights.com)
   - Offline analytics by WIFI-Signal
   - 오프라인 와이파이 신호 분석 서비스
