@@ -51,9 +51,9 @@ Country      | Korea             |
   - Frontend
 
 **[ZOYI Software Engineer](https://zoyi.co) (2016 ~ 2018)** </br>
-**[ZOYI CTO of Walkinsights](https://zoyi.co) (2018 ~ current)**
+**[ZOYI CTO of Walkinsights](https://zoyi.co) (2018 ~ 2020-06)**
 - [Walkinisghts](https://walkinsights.com)
-  - Offline analytics by WIFI-Signal
+  - Offline analytics by WIFI-Signal(B2B SaaS)
   - 오프라인 와이파이 신호 분석 서비스
   - DevOps
   - Backend
@@ -92,6 +92,15 @@ Country      | Korea             |
 - WalkIn
   - Captive portal solution by [Wifidog](http://dev.wifidog.org/)
   - 와이파이 포탈 서비스
+
+
+**[Modusign CTO](http://app.modusign.co.kr/) (2020-07 ~ current)**
+
+- 모두싸인
+  - 전자 계약 서비스(B2B SaaS)
+  - Terraform
+  - 마이크로서비스
+  - Software Architect
 
 
 ## Technical Experience
