@@ -52,6 +52,7 @@ Country      | Korea             |
 
 **[ZOYI Software Engineer](https://zoyi.co) (2016 ~ 2018)** </br>
 **[ZOYI CTO of Walkinsights](https://zoyi.co) (2018 ~ 2020-06)**
+
 - [Walkinisghts](https://walkinsights.com)
   - Offline analytics by WIFI-Signal(B2B SaaS)
   - 오프라인 와이파이 신호 분석 서비스
